@@ -44,12 +44,12 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<name>company release nexus repository</name>
+			<name>om-mss-maven-standalone-application-release</name>
 			<url>http://15.206.74.77:8081/repository/maven-standalone-application-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<name>company release nexus repository</name>
+			<name>om-mss-maven-standalone-application-snapshot</name>
 			<url>http://15.206.74.77:8081/repository/maven-standalone-application-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
